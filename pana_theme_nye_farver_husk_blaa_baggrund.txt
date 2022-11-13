@@ -1,0 +1,48 @@
+/////////////////////////
+
+Grey
+#808080
+
+
+Light Grey
+#d3d3d3
+
+
+Dark Grey
+#a9a9a9
+
+
+Slate Grey
+#708090
+
+///////////////////////////
+
+ {
+      "scope": "entity.other.attribute-name",
+      "settings": {
+        //"foreground": "#FFCC95"
+        "foreground": "#00FF00"
+      }
+    }
+
+////////////////////////////
+
+        // "foreground": "#19f9d8"
+        // "foreground": "#008B8B"
+        entity.other.attribute-name.html
+        // "foreground": "#00FF00" // Very Green
+        // "foreground": "#ADFF2F" // Green Yellow
+        // "foreground": "#008200" // Heineken Green
+        // "foreground": "#d3d3d3" // Light Grey
+        // "foreground": "#FFD700" // Gold	#FEBE10
+        // "foreground": "#ADFF2F" // Green Yellow
+        "foreground": "#FEBE10" // Real Madrid Gold
+
+        //////////////////////////////
+
+        "":"#F0E68C" // Khaki
+
+        //////////////////////////
+
+        og den blå baggrundsfarve
+        	#148EB2
